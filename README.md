@@ -2,6 +2,10 @@
 
 Easy Parsing 是一个面向科研人员的 AI 辅助论文发现、筛选与初步理解工具。当前版本已经从早期 MVP 规划演进为 **FastAPI 后端 + Next.js 前端** 的 Web 应用：以后端拉取 arXiv 元数据，基于用户研究画像进行规则评分，可选调用 DeepSeek 对候选论文进行复评，并把阅读状态与导出结果保存在本地文件中。
 
+## Preview
+
+<img src="assets/web.png" alt="Easy Parsing web dashboard" width="900">
+
 ## 当前定位
 
 Easy Parsing 目前更接近个人“研究雷达”，而不是完整的文献数据库或生产级知识库。它适合帮助用户每天快速回答：
