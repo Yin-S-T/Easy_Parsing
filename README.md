@@ -235,7 +235,7 @@ $env:DEEPSEEK_BASE_URL="https://api.deepseek.com/chat/completions"
 - DeepSeek 复评只能作为保守的二次筛选，不能视为事实来源。
 - 当前还没有自动化测试。
 
-## 下一步建议
+## 下一步扩展
 
 优先级最高的是稳定当前端到端链路：
 
